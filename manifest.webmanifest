@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "熱情管理小屋",
+  "short_name": "熱情小屋",
+  "description": "溫柔手帳風的熱情管理與探索紀錄",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#f7f3eb",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
